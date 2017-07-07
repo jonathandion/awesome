@@ -296,7 +296,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
 - [Elixir Books](https://github.com/sger/ElixirBooks)
-
+- [Javascript Books](https://github.com/jonathandion/awesome-js-books)
 
 ## Editors
 
